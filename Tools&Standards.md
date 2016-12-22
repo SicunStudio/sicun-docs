@@ -7,19 +7,22 @@ Version Requirement: 8.0
 Version Requirement: 2016
 # Coding
 ## Languages
-- HTML 5  
-- CSS 3  
+- HTML 5
+- CSS 3
 - JavaScript
-- Python 3  
+- Python 3
 - SQL
+
 ## Frameworks
 - Flask  
 Link: [Flask (A Python Microframework)](http://flask.pocoo.org/)
 - Vue.js  
 Link: [Vue.js](https://cn.vuejs.org/)
+
 ## Development Tools
 - XAMPP  
 Link: [XAMPP](https://www.apachefriends.org/zh_cn/index.html)
+
 # 场控
 ### Microsoft Office
 __Version Requirement: 2016 <--(!important)__
